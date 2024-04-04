@@ -9,5 +9,5 @@ MAE is a self-supervised learning task designed to improve the performance of au
 ## RAG
 Retrieval Augmented Generation is a system in which external information is fed to a LLM. This process mitigates hallucination and allows the LLM to speak on current events. RAG was utilized for the Claim Verification portion of ViMGuard.
 
-# Benchmarking
+## Benchmarking
 The 'Benchmarking' folder contains the models that ViMGuard was benchmarked against (Google ClaimReview, UTA's Claim Buster and a GPT-4 fact-checker)
